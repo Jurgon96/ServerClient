@@ -102,7 +102,7 @@ int main(int argc, char **argv){
 		printf("ERROR: connect\n");
 		return EXIT_FAILURE;
 	}
-	printf("...Conexion de pruebas Git2...\n");
+	printf("...Conexion de pruebas prueba...\n");
 	printf("...Estableciendo conexion con el servidor...\n");
 	
 	//Creacion y lanzamiento del hilo de envio 
