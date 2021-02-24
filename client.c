@@ -18,7 +18,7 @@
 #include <arpa/inet.h>
 #include <pthread.h>
 
-#define LENGTH 2048
+#define LENGTH 4096
 
 /* Variables Globales */
 volatile sig_atomic_t flag = 0;
